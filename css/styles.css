@@ -87,9 +87,10 @@ max-height: 40px;
 
 .button--secondary{
     border: 1px solid #D9D9D9;
-    background: transparent;
 }
-
+.button__close{
+    background: #fff;
+}
 .promo__block{
     background: #FFF1B8 url(../img/promo.png) no-repeat right center;
     border-radius: 10px;
